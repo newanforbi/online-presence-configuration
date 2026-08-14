@@ -14,6 +14,8 @@ Use the same name string on every public profile. Do not add other spellings, mi
 
 Brendan Ngwa Nforbi is a software developer in training based in Stockton, California. Since July 2022 he has also been the owner-operator of Altamont Freight LLC, a California motor-carrier business.
 
+In 2014, as a James Lick High School graduate in San Jose, he was named Youth of the Year by Boys & Girls Clubs of Silicon Valley (Mercury News, 12 December 2014).
+
 This LinkedIn profile and the website brendanngwanforbi.com are the official public pages for Brendan Ngwa Nforbi.
 
 **Experience — Altamont Freight LLC**

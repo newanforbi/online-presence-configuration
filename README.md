@@ -36,5 +36,6 @@ Court-aggregator pages titled Newanforbi will keep existing. The aim is that the
 | 6 | [docs/PEOPLE-SEARCH-OPT-OUTS.md](docs/PEOPLE-SEARCH-OPT-OUTS.md) | Remove broker listings that alias the names together |
 | 7 | [docs/PROFILE-COPY.md](docs/PROFILE-COPY.md) | Paste-ready text for LinkedIn and other profiles |
 | 8 | [docs/URL-INVENTORY.md](docs/URL-INVENTORY.md) | Pages currently mixing the names |
+| 9 | [docs/YOUTH-OF-THE-YEAR-LINKS.md](docs/YOUTH-OF-THE-YEAR-LINKS.md) | 2014–15 Boys & Girls Clubs honor — keep these |
 
 The public site is in `site/`. It is written so a `scripts/assert-clean-site.sh` check fails if the other spelling, a street address, or the `newanforbi` GitHub user ever lands in that folder.

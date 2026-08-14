@@ -11,6 +11,11 @@ Street addresses are omitted here on purpose so this repo does not become anothe
 | https://www.linkedin.com/in/bngwanforbi | Expand with copy from PROFILE-COPY.md. Add the custom-domain website. No AKA field. |
 | https://brendanngwanforbi.com/ | Official site (after deploy). This should become result #1. |
 | https://brendanngwanforbi.com/altamont-freight/ | Company page. Submit both URLs in Search Console. |
+| https://www.mercurynews.com/2014/12/12/pizarro-ugly-sweaters-star-in-sharks-video-and-in-downtown-events/ | 12 Dec 2014 Sal Pizarro column: names James Lick High graduate Brendan Ngwa Nforbi as Youth of the Year at BGCSV’s fifth annual Recognition Luncheon. Keep; link from the official site. |
+| https://www.brendanngwanforbi.com/ | Existing live site that already cites the 2014 honor. |
+| https://www.brendanngwanforbi.com/album | Photo archive (2014 speech practice; James Lick soccer media day). |
+
+Full Youth of the Year hunt, including places Google does not index: [YOUTH-OF-THE-YEAR-LINKS.md](YOUTH-OF-THE-YEAR-LINKS.md).
 
 ## Commercial aggregators currently mixing the other spelling
 

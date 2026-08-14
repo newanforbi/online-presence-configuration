@@ -9,6 +9,8 @@ Do these in order. Each item is something you can finish in one sitting. Check i
 - [ ] Create a **new** GitHub account for software work (`bngwanforbi` or `brendanngwanforbi`). Do not rename `newanforbi` — a rename leaves a redirect and keeps the names glued together.
 - [ ] Register the domain **brendanngwanforbi.com** (or another domain that contains the exact professional name and does not contain Newanforbi).
 - [ ] On LinkedIn [bngwanforbi](https://www.linkedin.com/in/bngwanforbi): set the headline and About text from [PROFILE-COPY.md](PROFILE-COPY.md). Do not add the other spelling as a former name or AKA.
+- [ ] Decide what to do with the second LinkedIn [brendan-ngwa-nforbi-935a8baa](https://www.linkedin.com/in/brendan-ngwa-nforbi-935a8baa) (see [YOUTH-OF-THE-YEAR-LINKS.md](YOUTH-OF-THE-YEAR-LINKS.md)).
+- [ ] Pull any remaining 2014 Recognition Luncheon photo links from Facebook/email into [YOUTH-OF-THE-YEAR-LINKS.md](YOUTH-OF-THE-YEAR-LINKS.md).
 - [ ] Search your own accounts (email signatures, Medium, X, Facebook, Instagram, YouTube, church pages, resumes) for the other spelling next to Brendan Ngwa Nforbi and remove those pairings.
 
 ## Day 1–2 — Put an official page on the internet
